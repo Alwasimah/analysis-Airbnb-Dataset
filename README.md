@@ -1,5 +1,4 @@
 # analysis-Airbnb-Dataset
-Since the data is raw, it may contain null values, missing values, etc. Accordingly, we need  to preprocess it.
 
 Airbnb, is an American company that operates an online marketplace, primarily homestays 
 for vacation rental and tourism activities. The company is, which is based on San Francisco 
